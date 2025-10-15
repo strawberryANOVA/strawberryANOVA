@@ -8,8 +8,8 @@
   <h2>STRAWBERRY TECHNOLOGY RSA PTY LTD</h2>
   <div class="links">
     <a href="https://www.linkedin.com/in/rmadatt786/" target="_blank">LinkedIn</a>
-    <a href="https://github.com/strawberryANOVA" target="_blank">GitHub</a>
+    <a href="https://github.com/rmadatt/" target="_blank">GitHub</a>
   </div>
-  <p class="tagline">AI/ML for EdTech, Blockchain, and other sovereign futures.</p>
+  <p class="tagline">AI/ML for EdTech, Blockchain, and other ideas.</p>
 </body>
 </html>
