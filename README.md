@@ -13,3 +13,9 @@
   <p class="tagline">AI/ML for EdTech, Blockchain, and other ideas.</p>
 </body>
 </html>
+  <footer style="margin-top: 60px; padding: 20px; background-color: #f2d4e4;">
+    <p style="font-size: 1em; color: #2c2c2c;">
+      Visit <a href="https://redpomelo.org.za/strawberry-technology-rsa" target="_blank" style="color: #d12c6a; font-weight: bold;">STRAWBERRY TECHNOLOGY RSA</a> for more.
+    </p>
+  </footer>
+
