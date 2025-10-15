@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-![MasterHead](https://wallpapercave.com/uwp/uwp4583233.jpeg)
+![MasterHead](https://raw.githubusercontent.com/strawberryANOVA/assets-placeholder.txt/main/a_white_cyborg_hand_holding_a_big.jpeg)
 <html lang="en">
-  </style>
 </head>
 <body>
   <header></header>
