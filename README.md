@@ -4,7 +4,7 @@
 </head>
 <body>
   <header></header>
-  <h1>Rugshana Madatt</h1>
+  <h1>Rugshana Madatt welcomes you to</h1>
   <h2>STRAWBERRY TECHNOLOGY RSA PTY LTD</h2>
   <div class="links">
     <a href="https://www.linkedin.com/in/rmadatt786/" target="_blank">LinkedIn</a>
