@@ -11,7 +11,8 @@
     <a href="https://github.com/rmadatt/" target="_blank">GitHub</a>
   </div>
   <p class="tagline">I am building experimental software for new businesses while coding at 
-    a< href="https://github.com/Ichigo-Gijutsu/" target="_blank">Ichigo Gijutsu</a>. AI/ML for EdTech, Blockchain, and other ideas.</p>
+    a< href="https://github.com/Ichigo-Gijutsu/" target="_blank">Ichigo Gijutsu</a>. AI/ML for EdTech, Blockchain, and other ideas.
+    </p>
 </body>
 </html>
   <footer style="margin-top: 60px; padding: 20px; background-color: #f2d4e4;">
